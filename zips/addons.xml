@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.serialkillers" name="Serial Killers" version="1.1.8" provider-name="Mookdog">
+<addon id="plugin.video.serialkillers" name="Serial Killers" version="1.1.9" provider-name="Mookdog | Jen">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.nanscrapers" version="0.5.5" />
@@ -17,7 +17,7 @@
     </extension>
     <extension point="xbmc.service" library="service.py" start="[login|startup]" />
     <extension point="xbmc.addon.metadata">
-      <summary lang="en">A collection of serial killer documentaries and Horror Movies</summary>
+      <summary lang="en">A collection of serial killer documentaries and movies and tv shows spanding all genres</summary>
       <summary lang="he">הרחבת וידאו Jen</summary>
       <description lang="en"></description>
       <description lang="he">האחות הקטנה של בוב</description>
