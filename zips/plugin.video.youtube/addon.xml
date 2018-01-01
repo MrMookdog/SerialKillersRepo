@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<addons>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.youtube" name="YouTube" version="5.4.5" provider-name="bromix">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
@@ -57,4 +56,3 @@
 		<source>https://github.com/jdf76/plugin.video.youtube</source>
 	</extension>
 </addon>
-</addons>
